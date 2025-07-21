@@ -12,18 +12,24 @@
 
 ## 💼 About Me
 
-- 🔭 진행 중인 졸업작품: **비즈퀴즈 (BizQuiz)**
-  - React 기반 웹 프론트엔드
-  - Node.js, Express, MongoDB 백엔드
-  - WebSocket 기반 실시간 퀴즈 기능
-  - 반응형 UI/UX 구성 및 API 설계
+- 🔭 현재 프로젝트: **비즈퀴즈 (BeezQuiz)**
+  - React 기반 퀴즈 플랫폼 웹 개발 (Node.js + MongoDB)
+  - WebSocket 기반 실시간 기능 구현
+  - 프론트엔드, 백엔드, DB 설계 전반에 참여
 
-- 🌱 최근에는 **RESTful API**, **JWT 인증**, **MongoDB 데이터 모델링**, **배포(AWS, Vercel)** 중심으로 공부 및 실습 중
+- 🐱 팀 프로젝트: **날씨냥 (WeatherCat)**
+  - 날씨 API와 고양이 캐릭터 UI 연동
+  - 사용자에게 운세와 날씨 정보를 시각적으로 전달
+  - UI/UX 구현, 발표자료 제작 담당
 
-- 👨‍💻 목표: **백엔드 개발자**로서 안정적인 API 설계와 클린 아키텍처에 집중하며 성장
+- 🌱 최근 집중 학습:
+  - RESTful API, JWT 인증, MongoDB 데이터 모델링
+  - 배포 환경 구성 (Vercel, Render, AWS)
 
-- 📫 연락처: **youremail@example.com**
-- 🌐 블로그/포트폴리오: [https://yourblog.dev](https://yourblog.dev) *(있으면 추가하세요)*
+- 👨‍💻 목표: **백엔드 개발자**로서 안정적이고 확장 가능한 서버 구조 구현
+
+- 📫 이메일: **ytjn200212@gmail.com**
+- 🔗 포트폴리오: [WeatherCat GitHub](https://github.com/keyxxupdaelim/Weather_Cat) / [BeezQuiz GitHub](https://github.com/MinJae0528/beezquiz-frontend/tree/develop_jinyoung) / [BeezQuiz PPT](https://www.miricanvas.com/v2/design/14q0mgs)
 
 ---
 
@@ -47,12 +53,33 @@
 
 ---
 
+## 🚀 Projects
+
+### 🧠 비즈퀴즈 (BeezQuiz) - 실시간 퀴즈 웹 플랫폼  
+[🔗 GitHub](https://github.com/MinJae0528/beezquiz-frontend/tree/develop_jinyoung) | [📽️ PPT](https://www.miricanvas.com/v2/design/14q0mgs)
+
+- 실시간 참여형 퀴즈 웹 플랫폼
+- React + Node.js + Express + MongoDB + WebSocket 구조
+- 졸업작품으로 팀 개발 중 (웹 완료 후 앱 버전 예정)
+- 내 역할: 프론트엔드/백엔드 개발, API 설계, 실시간 통신 구현
+
+---
+
+### 🐱 날씨냥 (WeatherCat) - 고양이 UI 기반 날씨 앱  
+[🔗 GitHub](https://github.com/keyxxupdaelim/Weather_Cat)
+
+- 날씨 API를 활용한 시각적 애니메이션 날씨 앱
+- 매일 운세 제공 기능으로 감성적 사용자 경험 강화
+- 내 역할: UI/UX 설계 및 구현, 발표자료 제작, 팀 협업
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default" alt="허진영 GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=keyxxupdaelim&show_icons=true&theme=default" alt="허진영 GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=default" alt="허진영 Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keyxxupdaelim&theme=default" alt="허진영 Streak" />
 </p>
 
 ---
@@ -60,9 +87,8 @@
 ## 🎯 목표
 
 - ✅ **백엔드 개발자**로 취업
-- ✅ API 보안/인증(JWT), DB 설계/최적화, 서버 구축 역량 강화
+- ✅ 안정적인 REST API 설계, 인증 보안(JWT), DB 최적화
 - ✅ 실전 프로젝트 경험 지속 확장 (웹 → 앱까지)
-- ✅ 협업 및 버전관리 경험 (Git, GitHub 기반 팀 작업 능력 강화)
+- ✅ Git 기반 협업 경험 및 커뮤니케이션 능력 강화
 
 ---
-
