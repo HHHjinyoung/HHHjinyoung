@@ -56,7 +56,9 @@
 ## 🚀 Projects
 
 ### 🧠 비즈퀴즈 (BeezQuiz) - 실시간 퀴즈 웹 플랫폼  
-[🔗 GitHub](https://github.com/MinJae0528/beezquiz-frontend/tree/develop_jinyoung) | [📽️ PPT](https://www.miricanvas.com/v2/design/14q0mgs)
+[🔗 GitHub](https://github.com/MinJae0528/beezquiz-frontend/tree/develop_jinyoung)  
+[📽️ 사이트 소개 영상](https://github.com/keyxxupdaelim/비즈퀴즈-소개영상.mp4)  
+[📑 발표 자료 (PPT)]([https://www.miricanvas.com/v2/design/14q0mgs](https://drive.google.com/drive/my-drive?dmr=1&ec=wgc-drive-hero-goto))
 
 - 실시간 참여형 퀴즈 웹 플랫폼
 - React + Node.js + Express + MongoDB + WebSocket 구조
@@ -66,7 +68,8 @@
 ---
 
 ### 🐱 날씨냥 (WeatherCat) - 고양이 UI 기반 날씨 앱  
-[🔗 GitHub](https://github.com/keyxxupdaelim/Weather_Cat)
+[🔗 GitHub](https://github.com/keyxxupdaelim/Weather_Cat)  
+[📑 발표 자료 (Canva PPT)](https://www.canva.com/design/DAGX7kkmJi4/Onwmd3Li27mOmdQLA02LLA/edit)
 
 - 날씨 API를 활용한 시각적 애니메이션 날씨 앱
 - 매일 운세 제공 기능으로 감성적 사용자 경험 강화
