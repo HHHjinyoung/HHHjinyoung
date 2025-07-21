@@ -29,7 +29,7 @@
 - 👨‍💻 목표: **백엔드 개발자**로서 안정적이고 확장 가능한 서버 구조 구현
 
 - 📫 이메일: **ytjn200212@gmail.com**
-- 🔗 포트폴리오: [WeatherCat GitHub](https://github.com/keyxxupdaelim/Weather_Cat) / [BeezQuiz GitHub](https://github.com/MinJae0528/beezquiz-frontend/tree/develop_jinyoung) / [BeezQuiz PPT](https://www.miricanvas.com/v2/design/14q0mgs)
+- 🔗 포트폴리오: [WeatherCat GitHub](https://github.com/keyxxupdaelim/Weather_Cat) / [BeezQuiz GitHub](https://github.com/MinJae0528/beezquiz-frontend/tree/develop_jinyoung)
 
 ---
 
@@ -57,8 +57,8 @@
 
 ### 🧠 비즈퀴즈 (BeezQuiz) - 실시간 퀴즈 웹 플랫폼  
 [🔗 GitHub](https://github.com/MinJae0528/beezquiz-frontend/tree/develop_jinyoung)  
-[📽️ 사이트 소개 영상](https://github.com/keyxxupdaelim/비즈퀴즈-소개영상.mp4)  
-[📑 발표 자료 (PPT)]([https://www.miricanvas.com/v2/design/14q0mgs](https://drive.google.com/drive/my-drive?dmr=1&ec=wgc-drive-hero-goto))
+[🎥 소개 영상 (Google Drive)](https://drive.google.com/file/d/1p2YSinaZ9oxF2x9QtRRNlXVFuX_GEAwf/view?usp=drive_link)  
+[📑 발표 자료 (PPT)](https://www.miricanvas.com/v2/design/14q0mgs)
 
 - 실시간 참여형 퀴즈 웹 플랫폼
 - React + Node.js + Express + MongoDB + WebSocket 구조
