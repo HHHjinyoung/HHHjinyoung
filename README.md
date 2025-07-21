@@ -42,9 +42,8 @@
   - REST API 설계, 실시간 통신 처리, DB 모델링  
   - **서버 배포(Render), 환경변수 설정, 운영 환경 구축**
 
- #### 🖼️ 대표 화면
-<img width="1919" height="1079" alt="스크린샷 2025-07-21 115357" src="https://github.com/user-attachments/assets/62efad13-26b7-439b-a5b5-011daf378e77" />
-
+#### 🖼️ 대표 화면
+<img src="https://github.com/user-attachments/assets/62efad13-26b7-439b-a5b5-011daf378e77" width="700" alt="BeezQuiz UI" />
 
 ---
 
@@ -58,7 +57,7 @@
   - 백엔드 구현 (날씨 API 처리, 데이터 가공, 앱 통신)
 
 #### 🖼️ 대표 화면
-<img width="2281" height="819" alt="image" src="https://github.com/user-attachments/assets/d61b2292-7077-43e4-af08-1c7f8dd40b89" />
+<img src="https://github.com/user-attachments/assets/d61b2292-7077-43e4-af08-1c7f8dd40b89" width="800" alt="WeatherCat UI" />
 
 ---
 
